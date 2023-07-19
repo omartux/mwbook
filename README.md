@@ -1,3 +1,3 @@
-#MW Book
-By ALvaro Rivera
-and Omar Castillo
+#MW Book<br>
+By ALvaro Rivera<br>
+and Omar Castillo<br>
